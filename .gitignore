@@ -24,10 +24,6 @@ venv/
 .mypy_cache/
 .ruff_cache/
 
-# Inspect AI logs / artifacts
-logs/
-*.eval
-
 # OS files
 .DS_Store
 Thumbs.db
